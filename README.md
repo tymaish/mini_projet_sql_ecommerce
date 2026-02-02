@@ -1,2 +1,1 @@
-# mini_projet_sql_ecommerce
-Analyse SQL des ventes d'une entreprise e-commerce sénégalaise
+“Ce projet analyse les ventes d’une entreprise e-commerce sénégalaise à travers des requêtes SQL permettant d’identifier les produits les plus vendus, le chiffre d’affaires total et l’activité des clients.”
